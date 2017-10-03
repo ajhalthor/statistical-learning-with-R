@@ -1,3 +1,5 @@
+# Refer my jupyter notebook for more details:
+# http://nbviewer.jupyter.org/github/ajhalthor/statistical-learning-with-R/blob/master/Chapter%202/notebooks/question%208.ipynb
 
 college = read.csv("Datasets/College.csv")
 head(college) #Use fix(college) in R-Studio to display in internal beditor

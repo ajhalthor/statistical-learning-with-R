@@ -1,3 +1,5 @@
+# Refer my jupyter notebook for more details:
+# http://nbviewer.jupyter.org/github/ajhalthor/statistical-learning-with-R/blob/master/Chapter%202/notebooks/question%2010.ipynb
 
 library(MASS)
 head(Boston)

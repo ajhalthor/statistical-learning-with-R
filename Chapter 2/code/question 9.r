@@ -1,4 +1,5 @@
-
+# Refer my jupyter notebook for more details:
+# http://nbviewer.jupyter.org/github/ajhalthor/statistical-learning-with-R/blob/master/Chapter%202/notebooks/question%209.ipynb
 Auto = read.csv("Datasets/Auto.csv", header=TRUE, na.strings="?")
 head(Auto)
 
